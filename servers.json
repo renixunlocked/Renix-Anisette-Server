@@ -51,6 +51,10 @@
     {
       "name": "iDH Server",
       "address": "https://ani.idevicehacked.com"
+    },
+    {
+        "name": "Renix's Server",
+        "address": "https://renixs-anisette-server.onrender.com"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
